@@ -1,5 +1,6 @@
 .banner-img-1{
     background: url(../image/carousel/1.jpg);
+    background-repeat: no-repeat;
     height: 100vh;
 
 }
